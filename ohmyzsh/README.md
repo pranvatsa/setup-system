@@ -40,7 +40,7 @@ Steps to setup oh-my-zsh along with the necessary plugins and fonts
   sudo apt install fonts-firacode 
   ```
 
-6. Set terminal profile theme to Dissonance 43 in [Gogh](https://mayccoll.github.io/Gogh/)
+6. Set terminal profile theme to Dissonance 55 in [Gogh](https://mayccoll.github.io/Gogh/)
   ```zsh
   bash -c  "$(wget -qO- https://git.io/vQgMr)" 
   ``` 
